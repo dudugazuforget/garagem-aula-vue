@@ -1,3 +1,3 @@
 <template>
-    <h2>Large Header</h2>
+    <h2>Garagem do Eduardo Computador</h2>
   </template>

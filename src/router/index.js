@@ -24,22 +24,22 @@ const router = createRouter({
       ],
     },
     {
-      path: '/acessorio',
+      path: '/acessorios',
       name: 'acessorio',
       component: AcessorioView,
     },
     {
-      path: '/categoria',
+      path: '/categorias',
       name: 'categoria',
       component: CategoriaView,
     },
     {
-      path: '/cor',
+      path: '/cores',
       name: 'cor',
       component: CorView,
     },
     {
-      path: '/Login',
+      path: '/login',
       name: 'login',
       component: Loginview,
     },
@@ -49,7 +49,7 @@ const router = createRouter({
       component: LogoutView,
     },
     {
-      path: '/marca',
+      path: '/marcas',
       name: 'marca',
       component: MarcaView,
     },

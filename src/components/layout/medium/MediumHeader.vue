@@ -1,3 +1,3 @@
 <template>
-    <h2>Medium Header</h2>
+    <h2>Garagem do Eduardo Medium</h2>
   </template>
